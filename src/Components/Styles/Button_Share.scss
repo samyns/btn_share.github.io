@@ -1,0 +1,13 @@
+*{
+    background-color: antiquewhite;
+}
+.bouton_centre{
+    $taille : 10vw;
+    width: $taille;
+    height: $taille;
+    border: 0;
+    background-color: aqua;
+    border-radius:50%;
+
+
+}

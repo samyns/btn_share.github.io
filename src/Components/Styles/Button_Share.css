@@ -1,0 +1,13 @@
+* {
+  background-color: antiquewhite;
+}
+
+.bouton_centre {
+  width: 10vw;
+  height: 10vw;
+  border: 0;
+  background-color: aqua;
+  border-radius: 50%;
+}
+
+/*# sourceMappingURL=Button_Share.css.map */

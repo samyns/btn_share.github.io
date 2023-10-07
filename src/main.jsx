@@ -1,10 +1,11 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App.jsx'
+import Button_Share from './Components/Button_Share.jsx'
 import './index.css'
+import './Main.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
-    <App></App>
-  </React.StrictMode>,
+  // <React.StrictMode>
+    <Button_Share></Button_Share>
+  // {/* </React.StrictMode>, */}
 )
