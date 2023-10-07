@@ -5,7 +5,12 @@ import './index.css'
 import './Main.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  // <React.StrictMode>
-    <Button_Share></Button_Share>
-  // {/* </React.StrictMode>, */}
+  <React.StrictMode>
+    <Button_Share id='un'></Button_Share>
+    <Button_Share id='deux'></Button_Share>
+
+
+
+
+  </React.StrictMode>,
 )
