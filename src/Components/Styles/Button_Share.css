@@ -28,7 +28,7 @@
   border: solid black 0.2vw;
   background-color: white;
   border-radius: 50%;
-  background-image: url("/src/assets/icons8-share.svg");
+  background-image: url("/public/icons8-share.svg");
   background-size: 6.7164179104vw;
   background-repeat: no-repeat;
   background-position-x: 50%;
