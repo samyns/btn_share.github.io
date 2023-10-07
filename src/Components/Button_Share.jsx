@@ -34,14 +34,14 @@ export default function Button_Share({ id }) {
 
     function boyit(AppliLink) {
         const Carct = {
-            Twitter: { Image: 'src/assets/icons8-twitter.svg', X: '5', Y: '-205', Delay: '140', Cercle: '#1DA1F2'},
-            Reddit: { Image: 'src/assets/icons8-reddit.svg', X: '156', Y: '-145', Delay: '210' , Cercle: '#FF5700'},
-            Linkedin: { Image: 'src/assets/icons8-linkedin.svg', X: '205', Y: '5', Delay: '280', Cercle: '#0072b1' },
-            Instagram: { Image: 'src/assets/icons8-instagram.svg', X: '156', Y: '145', Delay: '350', Cercle: '#C13584' },
-            Github: { Image: 'src/assets/icons8-github.svg', X: '5', Y: '205', Delay: '420' , Cercle: '#000000'},
-            Youtube: { Image: 'src/assets/icons8-youtube.svg', X: '-156', Y: '145', Delay: '490', Cercle: '#FF0000' },
-            Facebook: { Image: 'src/assets/icons8-facebook.svg', X: '-205', Y: '5', Delay: '0', Cercle: '#4267B2' },
-            Whatsapp: { Image: 'src/assets/icons8-whatsapp.svg', X: '-145', Y: '-156', Delay: '70' , Cercle: '#25D366'},
+            Twitter: { Image: 'public/icons8-twitter.svg', X: '5', Y: '-205', Delay: '140', Cercle: '#1DA1F2'},
+            Reddit: { Image: 'public/icons8-reddit.svg', X: '156', Y: '-145', Delay: '210' , Cercle: '#FF5700'},
+            Linkedin: { Image: 'public/icons8-linkedin.svg', X: '205', Y: '5', Delay: '280', Cercle: '#0072b1' },
+            Instagram: { Image: 'public/icons8-instagram.svg', X: '156', Y: '145', Delay: '350', Cercle: '#C13584' },
+            Github: { Image: 'public/icons8-github.svg', X: '5', Y: '205', Delay: '420' , Cercle: '#000000'},
+            Youtube: { Image: 'public/icons8-youtube.svg', X: '-156', Y: '145', Delay: '490', Cercle: '#FF0000' },
+            Facebook: { Image: 'public/icons8-facebook.svg', X: '-205', Y: '5', Delay: '0', Cercle: '#4267B2' },
+            Whatsapp: { Image: 'public/icons8-whatsapp.svg', X: '-145', Y: '-156', Delay: '70' , Cercle: '#25D366'},
         };
 
         let cara = Carct[AppliLink];
