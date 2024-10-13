@@ -9,7 +9,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     <Button_Share id='un'></Button_Share>
     <Button_Share id='deux'></Button_Share>
 
-
+    <Button_Share id='trois'></Button_Share>
 
 
   </React.StrictMode>,
