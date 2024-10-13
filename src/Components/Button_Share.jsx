@@ -40,7 +40,7 @@ export default function Button_Share({ id }) {
             Instagram: { Image: 'public/icons8-instagram.svg', X: '156', Y: '145', Delay: '350', Cercle: '#C13584' },
             Github: { Image: 'public/icons8-github.svg', X: '5', Y: '205', Delay: '420' , Cercle: '#000000'},
             Youtube: { Image: 'public/icons8-youtube.svg', X: '-156', Y: '145', Delay: '490', Cercle: '#FF0000' },
-            Facebook: { Image: 'public/icons8-facebook.svg', X: '-205', Y: '5', Delay: '0', Cercle: '#4267B2' },
+            Facebook: { Image: 'https://github.com/samyns/btn_share.github.io/blob/c501180cc912b84b4356a155412106ffb025a0bb/public/icons8-facebook.svg', X: '-205', Y: '5', Delay: '0', Cercle: '#4267B2' },
             Whatsapp: { Image: 'public/icons8-whatsapp.svg', X: '-145', Y: '-156', Delay: '70' , Cercle: '#25D366'},
         };
 
