@@ -36,7 +36,7 @@ export default function Button_Share({ id }) {
         const Carct = {
             Twitter: { Image: "/icons8-twitter.svg", X: '5', Y: '-205', Delay: '140', Cercle: '#1DA1F2'},
             Reddit: { Image: '/icons8-reddit.svg', X: '156', Y: '-145', Delay: '210' , Cercle: '#FF5700'},
-            Linkedin: { Image: '/icons8-linkedin.svg', X: '205', Y: '5', Delay: '280', Cercle: '#0072b1' },
+            Linkedin: { Image: '/linkedin.webp', X: '205', Y: '5', Delay: '280', Cercle: '#0072b1' },
             Instagram: { Image: '/icons8-instagram.svg', X: '156', Y: '145', Delay: '350', Cercle: '#C13584' },
             Github: { Image: '/icons8-github.svg', X: '5', Y: '205', Delay: '420' , Cercle: '#000000'},
             Youtube: { Image: '/icons8-youtube.svg', X: '-156', Y: '145', Delay: '490', Cercle: '#FF0000' },
